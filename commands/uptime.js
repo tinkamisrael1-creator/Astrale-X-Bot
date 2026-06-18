@@ -7,12 +7,12 @@ export async function uptime(client, message) {
     const minutes = Math.floor((uptime % 3600) / 60)
     const seconds = Math.floor(uptime % 60)
     
-    const text = `┌─🤖 Astrale X bot ─┐
+    const text = `┌─🤖 Lewismanzuzu-md ─┐
 │
 │ ⏱️ Uptime: ${days}d ${hours}h ${minutes}m
 │ 💾 RAM: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(1)}MB
 │
-│ "Astrale bot."
+│ "Lewismanzuzu-md."
 │     - DC241 -
 └────────────────────┘`
     
