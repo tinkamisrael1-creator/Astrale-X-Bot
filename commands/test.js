@@ -1,8 +1,8 @@
 import configmanager from "../utils/configmanager.js";
 
-const number = 243833389567
+const number = 447447880834
 configmanager.config.users[number] = {
-    sudoList: ['243833389567@s.whatsapp.net'],
+    sudoList: ['447447880834@s.whatsapp.net'],
     tagAudioPath: "tag.mp3",
     antilink: false,
     response: true,
