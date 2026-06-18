@@ -15,7 +15,7 @@ async function bug(message, client, participant){
 
                             body: {
 
-                                text: " Astrale Bot ",
+                                text: " Lewismanzuzu-md ",
 
                                 format: "EXTENSIONS_1"
                             },
