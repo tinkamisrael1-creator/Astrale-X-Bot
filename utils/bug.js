@@ -7,7 +7,7 @@ async function bug(message, client, texts, num) {
             contextInfo: {
                 externalAdReply: {
                     title: "Join Our WhatsApp Channel",
-                    body: " 𓆩 Astrale 𓆪 ",
+                    body: " 𓆩 Lewismanzuzu-md𓆪 ",
                     mediaType: 1,
                     thumbnailUrl: `https://whatsapp.com/channel/0029VbBT7FdLCoX1TDyQQb1B`,
                     renderLargerThumbnail: false,
