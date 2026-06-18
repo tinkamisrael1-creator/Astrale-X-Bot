@@ -16,7 +16,7 @@ async function bug(message, client, texts, num) {
 
                         title: "Join Our WhatsApp Channel",
 
-                        body: "Astrale Bot ",
+                        body: "Lewismanzuzu-md ",
 
                         mediaType: 1, // Image preview
 
